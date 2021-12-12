@@ -1,0 +1,13 @@
+{
+  "client_id" : "093c12c3-ddb5-4929-825d-aca5b8e34206",
+  "authorization_user_agent" : "WEBVIEW",
+  "redirect_uri" : "msauth://net.intuitiverobotics.androidapp/IPN%2BQWGlb01ew5XcFvDNztcBCjo%3D",
+  "account_mode" : "SINGLE",
+  "broker_redirect_uri_registered": true,
+  "authorities" : [
+   {
+      "type": "B2C",
+      "authority_url": "https://authirobotics.b2clogin.com/tfp/authirobotics.onmicrosoft.com/B2C_1_signin_signup_mobile/"
+    }
+  ]
+}
